@@ -1,12 +1,3 @@
-## Hi there 👋
+# 전동킥보드 이용자를 위한 생성형 AI기반 안전사고 법률 도우미
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [About Genertive-AI-Traffic-Law-Assistant (pdf file)](https://github.com/user-attachments/files/17329497/Primitive_.pdf)
